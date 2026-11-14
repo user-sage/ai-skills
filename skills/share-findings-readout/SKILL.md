@@ -1,6 +1,6 @@
 ---
 name: share-findings-readout
-description: Turns research findings into a readout ordered by the decisions it should inform, with three to five insights each backed by a quote and a count, what was not learned, recommendations with an owner, and the decision asked, shaped for the audience and channel. Use when a study is analysed and someone needs a readout, a research summary, a stakeholder update or slides for a product team, leadership or a channel post.
+description: Turns research findings into a readout ordered by the decisions it should inform, with three to five insights each backed by a quote and a count, what was not learned, recommendations with an owner, and the decision asked, shaped for the audience and channel. Use when a study is analyzed and someone needs a readout, a research summary, a stakeholder update or slides for a product team, leadership or a channel post.
 license: MIT
 metadata:
   version: "1.0.0"
@@ -67,7 +67,7 @@ What it means for the decision: [one sentence]
 
 ## What to ask for if it is missing
 
-- The findings or the analysis, ideally from the Analyse findings skill, with quotes and participant ids.
+- The findings or the analysis, ideally from the Analyze findings skill, with quotes and participant ids.
 - The decision the study was meant to inform, and who makes it.
 - The audience and the channel, such as a meeting, a document, slides or a chat post.
 - Who could own each recommendation, if the person knows.

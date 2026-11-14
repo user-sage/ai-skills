@@ -1,10 +1,10 @@
-# Example of usage: Analyse findings
+# Example of usage: Analyze findings
 
 This example is illustrative. It shows the shape of a good analysis. Every theme, quote, id and count is a bracketed placeholder, because the skill fills them only from your own data. It contains no real participants, quotes or numbers.
 
 ## The request
 
-> Analyse the checkout study. Show me the evidence for each theme.
+> Analyze the checkout study. Show me the evidence for each theme.
 
 ## What the skill does first
 

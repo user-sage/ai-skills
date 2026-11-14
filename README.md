@@ -14,7 +14,7 @@ The skills are listed in the order a study runs.
 | [Write a screener](skills/write-a-screener/SKILL.md) | You need to find the right people, and your screener reads like a quiz, or last round's participants were not who they said. | Behaviour and recency questions, hidden qualifying answers, a decoy, disqualifiers and quotas, with an answer key for fit to the brief. |
 | [Write an interview guide](skills/write-an-interview-guide/SKILL.md) | Interviews are booked and the question list starts with "would you use", or with a leading question. | Research questions mapped to interview questions, story openers, probes, a time budget and a leading-question check. |
 | [Audit a study before launch](skills/audit-a-study/SKILL.md) | A study is about to go out, and nobody has checked it for bias, gaps or unclear questions. | Every leading, biased or unclear question flagged with a ready fix, plus a check on screener logic, method, length, structure and goal fit. |
-| [Analyse findings](skills/analyse-findings/SKILL.md) | The sessions are done and the team wants themes, with every quote kept and every claim traced. | A codebook, codes with quotes and participant ids, themes with counts, counter-examples and single-voice observations, with human and simulated results reported separately. |
+| [Analyze findings](skills/analyze-findings/SKILL.md) | The sessions are done and the team wants themes, with every quote kept and every claim traced. | A codebook, codes with quotes and participant ids, themes with counts, counter-examples and single-voice observations, with human and simulated results reported separately. |
 | [Ask about your research](skills/ask-your-research/SKILL.md) | Someone asks whether you already know anything about a topic, and you need an answer grounded in everything you have researched. | An answer with the evidence behind it, plus the caveats a raw search would miss: small samples, outdated studies, weak evidence and contradictions. |
 | [Share findings as a readout](skills/share-findings-readout/SKILL.md) | Findings get a nice meeting and then nothing changes, and you need a readout ordered by the decisions it should inform. | A readout with three to five insights, each with a quote and a count, what was not learned, recommendations with an owner, and the decision asked. |
 
@@ -57,7 +57,7 @@ To install one skill, use its name instead of the bundle, for example:
 claude plugin install plan-a-study@user-sage
 ```
 
-The skill names are plan-a-study, write-a-screener, write-an-interview-guide, audit-a-study, analyse-findings, ask-your-research and share-findings-readout.
+The skill names are plan-a-study, write-a-screener, write-an-interview-guide, audit-a-study, analyze-findings, ask-your-research and share-findings-readout.
 
 The skills then load in every session, and Claude picks the right one from what you ask.
 
@@ -86,7 +86,7 @@ skills/
   write-a-screener/
   write-an-interview-guide/
   audit-a-study/
-  analyse-findings/
+  analyze-findings/
   ask-your-research/
   share-findings-readout/
 CHANGELOG.md

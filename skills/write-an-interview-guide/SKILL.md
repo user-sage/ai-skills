@@ -105,4 +105,4 @@ Ask the person to paste in the Brief or research questions, the session length, 
 
 ## Next step
 
-Save the guide with the Study Brief in User Sage, and run a pilot interview with a colleague to check the timing. If the guide needs participants, use Write a screener. After the sessions, use Analyse findings.
+Save the guide with the Study Brief in User Sage, and run a pilot interview with a colleague to check the timing. If the guide needs participants, use Write a screener. After the sessions, use Analyze findings.

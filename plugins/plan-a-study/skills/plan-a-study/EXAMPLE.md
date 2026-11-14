@@ -42,7 +42,7 @@ Five to eight people per segment, which usually surfaces the main usability prob
 ## Timeline
 - Week 1: sign off this Brief, write the screener and tasks, and run one pilot session.
 - Week 2: recruit and run sessions.
-- Week 3: analyse, and share the readout by [date].
+- Week 3: analyze, and share the readout by [date].
 
 ## Roles
 - Study owner: [name]

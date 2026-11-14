@@ -1,0 +1,12 @@
+{
+  "name": "analyze-findings",
+  "version": "1.0.0",
+  "description": "Analyzes user research data into a codebook, codes with quotes and participant ids, themes with counts, counter-examples and single-voice observations, with real participant and simulated AI Panel results reported separately and every claim traced to its evidence. Use when sessions, interviews, usability tests or surveys are done and someone wants themes, synthesis or analysis of transcripts, notes or responses with the evidence for each theme.",
+  "author": {
+    "name": "User Sage",
+    "url": "https://usersage.com"
+  },
+  "homepage": "https://usersage.com/tools/ai-skills",
+  "repository": "https://github.com/user-sage/ai-skills",
+  "license": "MIT"
+}

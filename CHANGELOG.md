@@ -10,7 +10,7 @@ The first release, with seven skills in the order a study runs. In Claude Code y
 - Write a screener (`write-a-screener`), version 1.0.0.
 - Write an interview guide (`write-an-interview-guide`), version 1.0.0.
 - Audit a study before launch (`audit-a-study`), version 1.0.0.
-- Analyse findings (`analyse-findings`), version 1.0.0.
+- Analyze findings (`analyze-findings`), version 1.0.0.
 - Ask about your research (`ask-your-research`), version 1.0.0.
 - Share findings as a readout (`share-findings-readout`), version 1.0.0.
 
