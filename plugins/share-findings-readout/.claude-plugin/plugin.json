@@ -1,0 +1,12 @@
+{
+  "name": "share-findings-readout",
+  "version": "1.0.0",
+  "description": "Turns research findings into a readout ordered by the decisions it should inform, with three to five insights each backed by a quote and a count, what was not learned, recommendations with an owner, and the decision asked, shaped for the audience and channel. Use when a study is analysed and someone needs a readout, a research summary, a stakeholder update or slides for a product team, leadership or a channel post.",
+  "author": {
+    "name": "User Sage",
+    "url": "https://usersage.com"
+  },
+  "homepage": "https://usersage.com/tools/ai-skills",
+  "repository": "https://github.com/user-sage/ai-skills",
+  "license": "MIT"
+}

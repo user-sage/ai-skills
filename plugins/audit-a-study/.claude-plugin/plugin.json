@@ -1,0 +1,12 @@
+{
+  "name": "audit-a-study",
+  "version": "1.0.0",
+  "description": "Audits a user research study before launch and flags leading or biased wording, unclear questions, screener logic gaps, poor method fit, length and structure problems, and questions that do not trace to a research question, each with where it is, why it matters, a ready fix and a severity. Use when a study, survey, test or screener is about to go out and someone wants it checked for bias, gaps or unclear questions, or asks for a review, audit or sense check before launch.",
+  "author": {
+    "name": "User Sage",
+    "url": "https://usersage.com"
+  },
+  "homepage": "https://usersage.com/tools/ai-skills",
+  "repository": "https://github.com/user-sage/ai-skills",
+  "license": "MIT"
+}

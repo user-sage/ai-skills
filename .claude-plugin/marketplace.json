@@ -1,0 +1,67 @@
+{
+  "name": "user-sage",
+  "description": "Research skills from User Sage for planning, running, analysing and sharing user research.",
+  "owner": {
+    "name": "User Sage",
+    "url": "https://usersage.com"
+  },
+  "plugins": [
+    {
+      "name": "user-sage-skills",
+      "source": "./",
+      "description": "Seven core research skills that cover the whole research journey, from planning a study to sharing what you learned.",
+      "category": "research",
+      "tags": [
+        "user-research",
+        "ux-research",
+        "study-planning",
+        "screener",
+        "interview-guide",
+        "analysis",
+        "readout"
+      ]
+    },
+    {
+      "name": "plan-a-study",
+      "source": "./plugins/plan-a-study",
+      "description": "Plans a user research study and returns a Study Brief draft with the decision it informs, research questions, method and why, sample, timeline, roles, risks, and what it will not answer. Use when someone has a stakeholder question, a product problem or a deadline and needs a research plan before recruiting, or asks to plan a usability test, interviews, a survey or any other study.",
+      "category": "research"
+    },
+    {
+      "name": "write-a-screener",
+      "source": "./plugins/write-a-screener",
+      "description": "Writes a participant screener for a user research study, with behaviour and recency questions, hidden qualifying answers, a decoy, disqualifiers and quotas, plus an answer key that shows how each answer fits the brief. Use when someone needs to recruit the right people for a study, has a screener that reads like a quiz, or had participants last round who were not who they said they were.",
+      "category": "research"
+    },
+    {
+      "name": "write-an-interview-guide",
+      "source": "./plugins/write-an-interview-guide",
+      "description": "Writes a user interview guide that maps each research question to interview questions, with story openers, probes, a time budget for each section and a leading-question check. Use when interviews are booked and someone needs a discussion guide, or when a question list starts with \"would you use\" or contains leading questions that need rewriting.",
+      "category": "research"
+    },
+    {
+      "name": "audit-a-study",
+      "source": "./plugins/audit-a-study",
+      "description": "Audits a user research study before launch and flags leading or biased wording, unclear questions, screener logic gaps, poor method fit, length and structure problems, and questions that do not trace to a research question, each with where it is, why it matters, a ready fix and a severity. Use when a study, survey, test or screener is about to go out and someone wants it checked for bias, gaps or unclear questions, or asks for a review, audit or sense check before launch.",
+      "category": "research"
+    },
+    {
+      "name": "analyse-findings",
+      "source": "./plugins/analyse-findings",
+      "description": "Analyses user research data into a codebook, codes with quotes and participant ids, themes with counts, counter-examples and single-voice observations, with real participant and simulated AI Panel results reported separately and every claim traced to its evidence. Use when sessions, interviews, usability tests or surveys are done and someone wants themes, synthesis or analysis of transcripts, notes or responses with the evidence for each theme.",
+      "category": "research"
+    },
+    {
+      "name": "ask-your-research",
+      "source": "./plugins/ask-your-research",
+      "description": "Answers a question from everything a team has already researched, with the evidence behind the answer and the caveats a plain search would miss, such as small samples, outdated studies, weak evidence and contradictions between studies. Use when someone asks whether the team already knows anything about a topic, what past research says, or whether a new study is needed. Works live through the User Sage MCP connection, or on research files the person pastes in.",
+      "category": "research"
+    },
+    {
+      "name": "share-findings-readout",
+      "source": "./plugins/share-findings-readout",
+      "description": "Turns research findings into a readout ordered by the decisions it should inform, with three to five insights each backed by a quote and a count, what was not learned, recommendations with an owner, and the decision asked, shaped for the audience and channel. Use when a study is analysed and someone needs a readout, a research summary, a stakeholder update or slides for a product team, leadership or a channel post.",
+      "category": "research"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "write-a-screener",
+  "version": "1.0.0",
+  "description": "Writes a participant screener for a user research study, with behaviour and recency questions, hidden qualifying answers, a decoy, disqualifiers and quotas, plus an answer key that shows how each answer fits the brief. Use when someone needs to recruit the right people for a study, has a screener that reads like a quiz, or had participants last round who were not who they said they were.",
+  "author": {
+    "name": "User Sage",
+    "url": "https://usersage.com"
+  },
+  "homepage": "https://usersage.com/tools/ai-skills",
+  "repository": "https://github.com/user-sage/ai-skills",
+  "license": "MIT"
+}

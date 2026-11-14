@@ -1,0 +1,12 @@
+{
+  "name": "write-an-interview-guide",
+  "version": "1.0.0",
+  "description": "Writes a user interview guide that maps each research question to interview questions, with story openers, probes, a time budget for each section and a leading-question check. Use when interviews are booked and someone needs a discussion guide, or when a question list starts with \"would you use\" or contains leading questions that need rewriting.",
+  "author": {
+    "name": "User Sage",
+    "url": "https://usersage.com"
+  },
+  "homepage": "https://usersage.com/tools/ai-skills",
+  "repository": "https://github.com/user-sage/ai-skills",
+  "license": "MIT"
+}

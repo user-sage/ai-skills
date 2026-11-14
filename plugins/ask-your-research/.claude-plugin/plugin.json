@@ -1,0 +1,12 @@
+{
+  "name": "ask-your-research",
+  "version": "1.0.0",
+  "description": "Answers a question from everything a team has already researched, with the evidence behind the answer and the caveats a plain search would miss, such as small samples, outdated studies, weak evidence and contradictions between studies. Use when someone asks whether the team already knows anything about a topic, what past research says, or whether a new study is needed. Works live through the User Sage MCP connection, or on research files the person pastes in.",
+  "author": {
+    "name": "User Sage",
+    "url": "https://usersage.com"
+  },
+  "homepage": "https://usersage.com/tools/ai-skills",
+  "repository": "https://github.com/user-sage/ai-skills",
+  "license": "MIT"
+}

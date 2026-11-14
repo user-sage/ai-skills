@@ -1,0 +1,12 @@
+{
+  "name": "plan-a-study",
+  "version": "1.0.0",
+  "description": "Plans a user research study and returns a Study Brief draft with the decision it informs, research questions, method and why, sample, timeline, roles, risks, and what it will not answer. Use when someone has a stakeholder question, a product problem or a deadline and needs a research plan before recruiting, or asks to plan a usability test, interviews, a survey or any other study.",
+  "author": {
+    "name": "User Sage",
+    "url": "https://usersage.com"
+  },
+  "homepage": "https://usersage.com/tools/ai-skills",
+  "repository": "https://github.com/user-sage/ai-skills",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "user-sage-skills",
+  "displayName": "User Sage AI Skills",
+  "version": "1.0.0",
+  "description": "Seven core research skills that cover the whole research journey, from planning a study to sharing what you learned.",
+  "author": {
+    "name": "User Sage",
+    "url": "https://usersage.com"
+  },
+  "homepage": "https://usersage.com/tools/ai-skills",
+  "repository": "https://github.com/user-sage/ai-skills",
+  "license": "MIT",
+  "keywords": ["user-research", "ux-research", "study-planning", "screener", "interview-guide", "study-audit", "analysis", "readout"]
+}
