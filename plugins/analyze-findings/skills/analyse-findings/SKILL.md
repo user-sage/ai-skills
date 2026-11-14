@@ -1,13 +1,13 @@
 ---
-name: analyse-findings
-description: Analyses user research data into a codebook, codes with quotes and participant ids, themes with counts, counter-examples and single-voice observations, with real participant and simulated AI Panel results reported separately and every claim traced to its evidence. Use when sessions, interviews, usability tests or surveys are done and someone wants themes, synthesis or analysis of transcripts, notes or responses with the evidence for each theme.
+name: analyze-findings
+description: Analyzes user research data into a codebook, codes with quotes and participant ids, themes with counts, counter-examples and single-voice observations, with real participant and simulated AI Panel results reported separately and every claim traced to its evidence. Use when sessions, interviews, usability tests or surveys are done and someone wants themes, synthesis or analysis of transcripts, notes or responses with the evidence for each theme.
 license: MIT
 metadata:
   version: "1.0.0"
   author: User Sage
 ---
 
-# Analyse findings
+# Analyze findings
 
 ## What this skill does
 
@@ -25,7 +25,7 @@ Return the analysis in exactly this structure.
 # Analysis: [study name]
 
 ## What this is based on
-[The data analysed: number of real participants, sessions or responses, dates, and method. Any AI Panel results are listed here separately.]
+[The data analyzed: number of real participants, sessions or responses, dates, and method. Any AI Panel results are listed here separately.]
 
 ## Codebook
 | Code | Definition | Participants | Example quote (participant id) |
@@ -72,7 +72,7 @@ Confidence: [high, medium or low, with the reason.]
 - How participants are identified, and whether any results came from an AI Panel.
 - The method and how many people took part.
 
-If the data is partial, analyse what you have and say clearly what was missing.
+If the data is partial, analyze what you have and say clearly what was missing.
 
 ## Evidence rule
 
@@ -89,7 +89,7 @@ Never invent a participant, a quote, a finding or a metric. Every theme is trace
 
 ## Without a connection
 
-Ask the person to paste in their transcripts, notes or response export, with participant ids, and the research questions. Return the analysis as text. Say that it is a draft to check against the data and to save with the study in User Sage, and that you can only analyse what they pasted in.
+Ask the person to paste in their transcripts, notes or response export, with participant ids, and the research questions. Return the analysis as text. Say that it is a draft to check against the data and to save with the study in User Sage, and that you can only analyze what they pasted in.
 
 ## Next step
 

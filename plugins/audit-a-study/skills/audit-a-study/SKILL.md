@@ -84,4 +84,4 @@ Ask the person to paste in the whole study, including the screener and the resea
 
 ## Next step
 
-Fix the flagged items in User Sage, then run the audit again until the summary says ready to launch. After the study has run, use Analyse findings.
+Fix the flagged items in User Sage, then run the audit again until the summary says ready to launch. After the study has run, use Analyze findings.
